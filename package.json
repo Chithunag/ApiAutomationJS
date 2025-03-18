@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha -r ts-node/register 'tests/**.spec.ts'"
   },
-  "author": "",
+  "author": "ChithuNag",
   "license": "ISC",
   "devDependencies": {
     "@types/chai": "^5.2.0",
